@@ -22,6 +22,3 @@ Na verdade, isto tudo é a sua imaginação. Você vive em 1991 e usa MS-DOS 5.0
 A sua linha telefônica está uma droga hoje e você tem que baixar a ultima versão do XTree para enciumar os seus amigos.
 
 [Você liga para a companhia telefônica](telefonica/ocupado.md)
-
-
-
